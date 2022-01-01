@@ -1,0 +1,1 @@
+This repository is for learning purposes, just working around with testing in Junit using different methodoligies like parametarized testingThis repository is for learning purposes, just working around with testing in Junit using different methodoligies like parametarized testing
